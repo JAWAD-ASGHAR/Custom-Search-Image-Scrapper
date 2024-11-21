@@ -1,0 +1,604 @@
+[
+    {
+      "name": "EcoSmart LED Bulb",
+      "description": "An energy-efficient LED bulb with a lifespan of 25,000 hours.",
+      "price": 12.99,
+      "stock": 150,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Alice Green",
+          "comment": "Bright and long-lasting. Excellent product!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Organic Cotton T-Shirt",
+      "description": "A breathable, soft T-shirt made from 100% organic cotton.",
+      "price": 18.99,
+      "stock": 200,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Tom Brown",
+          "comment": "Great quality, very comfortable.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Bluetooth Alarm Clock",
+      "description": "A modern alarm clock with Bluetooth speakers and USB charging.",
+      "price": 35.49,
+      "stock": 80,
+      "rating": 4.2,
+      "reviews": [
+        {
+          "reviewer": "Emily White",
+          "comment": "Good sound quality and handy features.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Travel Mug",
+      "description": "Keeps beverages hot for 8 hours and cold for 12 hours.",
+      "price": 22.5,
+      "stock": 120,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Sophia Black",
+          "comment": "Perfect for my daily coffee runs!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Adjustable Office Chair",
+      "description": "An ergonomic chair with lumbar support and adjustable height.",
+      "price": 159.99,
+      "stock": 45,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "James Miller",
+          "comment": "Great support for long working hours.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Gaming Mouse",
+      "description": "High-precision mouse with customizable buttons and RGB lighting.",
+      "price": 49.99,
+      "stock": 90,
+      "rating": 4.3,
+      "reviews": [
+        {
+          "reviewer": "Lucas King",
+          "comment": "Good performance, though RGB isn't very bright.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Smart Fitness Band",
+      "description": "Tracks your steps, heart rate, and sleep patterns with accuracy.",
+      "price": 69.99,
+      "stock": 60,
+      "rating": 4.4,
+      "reviews": [
+        {
+          "reviewer": "Laura Wilson",
+          "comment": "Great for keeping me motivated to stay active.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Noise-Canceling Headphones",
+      "description": "Comfortable over-ear headphones with active noise cancellation.",
+      "price": 120,
+      "stock": 30,
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Oliver Taylor",
+          "comment": "Amazing sound and excellent noise cancellation.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Kitchen Knife Set",
+      "description": "A set of 5 stainless steel knives with ergonomic handles.",
+      "price": 79.99,
+      "stock": 70,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Michael Harris",
+          "comment": "Sharp and durable, great addition to my kitchen.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Inflatable Camping Mattress",
+      "description": "Lightweight and compact mattress for outdoor adventures.",
+      "price": 45.99,
+      "stock": 100,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Grace Lewis",
+          "comment": "Very comfortable and easy to carry.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Bluetooth Wireless Headphones",
+      "description": "Noise-cancelling headphones with 20-hour battery life.",
+      "price": 79.99,
+      "stock": 50,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Ethan Smith",
+          "comment": "Excellent sound quality and comfortable fit.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Water Bottle",
+      "description": "Insulated bottle that keeps drinks cold for 24 hours.",
+      "price": 19.99,
+      "stock": 200,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Sophia Brown",
+          "comment": "Great for keeping my water cold all day!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Ergonomic Office Chair",
+      "description": "Adjustable chair with lumbar support for long hours.",
+      "price": 129.99,
+      "stock": 30,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "James Carter",
+          "comment": "Very comfortable and easy to assemble.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Portable Power Bank",
+      "description": "10000mAh power bank with fast charging capabilities.",
+      "price": 29.99,
+      "stock": 150,
+      "rating": 4.4,
+      "reviews": [
+        {
+          "reviewer": "Ava Martinez",
+          "comment": "Lightweight and charges my phone quickly.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Non-Stick Frying Pan",
+      "description": "Durable pan with a ceramic non-stick coating.",
+      "price": 24.99,
+      "stock": 75,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Olivia Johnson",
+          "comment": "Cooks evenly and is easy to clean.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "LED Desk Lamp",
+      "description": "Adjustable lamp with multiple brightness levels.",
+      "price": 34.99,
+      "stock": 100,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Liam Davis",
+          "comment": "Great for studying and looks sleek.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Smart Plug",
+      "description": "Wi-Fi enabled plug compatible with Alexa and Google Home.",
+      "price": 14.99,
+      "stock": 200,
+      "rating": 4.3,
+      "reviews": [
+        {
+          "reviewer": "Ella Wilson",
+          "comment": "Works perfectly with my Alexa setup.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Fitness Tracker Watch",
+      "description": "Tracks steps, heart rate, and sleep patterns.",
+      "price": 49.99,
+      "stock": 80,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Mia Moore",
+          "comment": "Stylish and keeps me motivated to stay active.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Memory Foam Pillow",
+      "description": "Supportive and hypoallergenic pillow for better sleep.",
+      "price": 39.99,
+      "stock": 60,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Noah White",
+          "comment": "Extremely comfortable and supportive for my neck.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+      "price": 22.99,
+      "stock": 120,
+      "rating": 4.4,
+      "reviews": [
+        {
+          "reviewer": "Lucas Harris",
+          "comment": "Charges my phone quickly and is very convenient.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Electric Kettle",
+      "description": "1.7L kettle with auto shut-off and boil-dry protection.",
+      "price": 29.99,
+      "stock": 90,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Charlotte Brown",
+          "comment": "Heats up water fast and looks modern.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Laptop Backpack",
+      "description": "Water-resistant backpack with padded laptop compartment.",
+      "price": 54.99,
+      "stock": 50,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Mason Green",
+          "comment": "Very durable and perfect for commuting.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Wireless Earbuds",
+      "description": "Compact earbuds with noise cancellation and 8-hour battery life.",
+      "price": 69.99,
+      "stock": 70,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Amelia Hall",
+          "comment": "Excellent sound quality and stays in place during workouts.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Ceramic Coffee Mug",
+      "description": "16 oz mug with a heat-resistant handle.",
+      "price": 12.99,
+      "stock": 150,
+      "rating": 4.4,
+      "reviews": [
+        {
+          "reviewer": "Henry Taylor",
+          "comment": "Perfect size for my morning coffee.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Digital Alarm Clock",
+      "description": "LED display with USB charging port and snooze function.",
+      "price": 19.99,
+      "stock": 140,
+      "rating": 4.3,
+      "reviews": [
+        {
+          "reviewer": "Emily King",
+          "comment": "Simple to use and the USB port is a great feature.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Compact Air Purifier",
+      "description": "Removes dust and allergens, perfect for small rooms.",
+      "price": 59.99,
+      "stock": 30,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Jack Lopez",
+          "comment": "Quiet and does an excellent job improving air quality.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Cordless Handheld Vacuum",
+      "description": "Lightweight vacuum ideal for small messes and car cleaning.",
+      "price": 49.99,
+      "stock": 100,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Sofia Anderson",
+          "comment": "Convenient for quick clean-ups around the house.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Yoga Mat",
+      "description": "Eco-friendly, non-slip mat for yoga and exercise.",
+      "price": 29.99,
+      "stock": 150,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "William Lee",
+          "comment": "Great grip and comfortable thickness for yoga.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable toothbrush with multiple cleaning modes.",
+      "price": 39.99,
+      "stock": 80,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Ella Thomas",
+          "comment": "Leaves my teeth feeling super clean.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Reusable Grocery Bags",
+      "description": "Set of 5 durable and washable tote bags.",
+      "price": 24.99,
+      "stock": 200,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Benjamin Miller",
+          "comment": "Strong and perfect for my weekly shopping.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Smart Home Security Camera",
+      "description": "AI-enabled camera with night vision and motion detection.",
+      "price": 99.99,
+      "stock": 40,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Grace Patel",
+          "comment": "Great for monitoring my home during the night.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Portable Bluetooth Speaker",
+      "description": "Compact speaker with wireless connectivity and long battery life.",
+      "price": 49.99,
+      "stock": 60,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "James Wilson",
+          "comment": "Great for listening to music on the go.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Adjustable Dumbbells",
+      "description": "Space-saving dumbbells adjustable from 5 to 50 lbs.",
+      "price": 199.99,
+      "stock": 40,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Jacob Wright",
+          "comment": "Super convenient and easy to adjust.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "UV-C Sanitizer Box",
+      "description": "Kills 99.9% of germs on phones and small gadgets.",
+      "price": 49.99,
+      "stock": 75,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Isabella Scott",
+          "comment": "Perfect for keeping my phone germ-free.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Wireless Keyboard and Mouse Combo",
+      "description": "Ergonomic keyboard with silent mouse for work or gaming.",
+      "price": 39.99,
+      "stock": 100,
+      "rating": 4.4,
+      "reviews": [
+        {
+          "reviewer": "Oliver Adams",
+          "comment": "Smooth performance and good battery life.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Foam Roller",
+      "description": "High-density foam roller for muscle recovery and exercise.",
+      "price": 21.99,
+      "stock": 150,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Charlotte Baker",
+          "comment": "Really helps with post-workout soreness.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Pet Camera with Treat Dispenser",
+      "description": "Interactive camera for watching and feeding pets remotely.",
+      "price": 129.99,
+      "stock": 25,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Lucas Perez",
+          "comment": "Keeps my dog entertained while I’m at work.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Collapsible Travel Mug",
+      "description": "Silicone mug that folds flat for easy storage.",
+      "price": 15.99,
+      "stock": 200,
+      "rating": 4.4,
+      "reviews": [
+        {
+          "reviewer": "Sophia Turner",
+          "comment": "Lightweight and perfect for travel.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Digital Meat Thermometer",
+      "description": "Instant-read thermometer for grilling and baking.",
+      "price": 18.99,
+      "stock": 120,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Henry Harris",
+          "comment": "Quick and accurate temperature readings.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Kids' Art Easel",
+      "description": "Double-sided easel with chalkboard and dry-erase board.",
+      "price": 49.99,
+      "stock": 30,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Ella Walker",
+          "comment": "My kids love drawing on it for hours!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Plant Grow Light",
+      "description": "Full-spectrum LED light for indoor gardening.",
+      "price": 39.99,
+      "stock": 50,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Mia Martinez",
+          "comment": "Perfect for my indoor herbs.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Smart Doorbell",
+      "description": "Wi-Fi doorbell with HD video and two-way audio.",
+      "price": 99.99,
+      "stock": 20,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Ethan Young",
+          "comment": "Easy to set up and great picture quality.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Bamboo Cheese Board Set",
+      "description": "Includes knives and compartments for serving cheese.",
+      "price": 39.99,
+      "stock": 60,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Ava Allen",
+          "comment": "Beautiful and functional for hosting parties.",
+          "rating": 5
+        }
+      ]
+    }
+  ]
